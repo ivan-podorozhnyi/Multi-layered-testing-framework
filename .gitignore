@@ -1,0 +1,23 @@
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+/target/
+/.idea
+*.iml
+debug.log
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+### Java ###
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
